@@ -7,7 +7,7 @@ This document outlines the system architecture for the **Cluster Points Recruitm
 The platform is fundamentally a **two‑module system**:
 
 - **Module 1:** Candidate‑facing **Career Website**
-    
+
 - **Module 2:** Recruiter‑facing **Applicant Tracking System (ATS)** (functionally similar to Zoho Recruit)
     
 
