@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HRMS/Business Analyst work flow.md",
+                "file": "HRMS/00 - Home/Certifications Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business Analyst work flow"
+              "title": "Certifications Roadmap"
             }
           }
         ]
@@ -185,17 +185,41 @@
   },
   "active": "c74cb114b6ebca84",
   "lastOpenFiles": [
-    "HRMS/Introduction, Question and Business Analyst.md",
-    "HRMS/Business Analyst work flow.md",
-    "HRMS/Track.md",
-    "HRMS/UAT.md",
-    "Untitled.md",
-    "HRMS/gjfdgjl;kjglk.md",
-    "HRMS/new.md",
-    "Update.bat",
-    "git-sync.bat",
-    "~$w Text Document.txt",
-    "New Text Document.txt",
-    "HRMS"
+    "HRMS/00 - Home/Career Goals.md",
+    "HRMS/99 - Archive",
+    "HRMS/20 - Cheat Sheets/UML Cheat Sheet.md",
+    "HRMS/20 - Cheat Sheets/SQL Cheat Sheet.md",
+    "HRMS/20 - Cheat Sheets/Interview One-Pagers.md",
+    "HRMS/20 - Cheat Sheets/BA Quick Revision.md",
+    "HRMS/20 - Cheat Sheets/Agile Cheat Sheet.md",
+    "HRMS/20 - Cheat Sheets/API Cheat Sheet.md",
+    "HRMS/20 - Cheat Sheets",
+    "HRMS/19 - Templates/User Story Template.md",
+    "HRMS/19 - Templates/UAT Template.md",
+    "HRMS/19 - Templates/Stakeholder Matrix Template.md",
+    "HRMS/19 - Templates/RTM Template.md",
+    "HRMS/19 - Templates/Process Flow Template.md",
+    "HRMS/19 - Templates/MOM Template.md",
+    "HRMS/19 - Templates/FRD Template.md",
+    "HRMS/19 - Templates/BRD Template.md",
+    "HRMS/19 - Templates",
+    "HRMS/18 - Interview Preparation/UAT Questions.md",
+    "HRMS/18 - Interview Preparation/STAR Answers.md",
+    "HRMS/18 - Interview Preparation/SQL Questions.md",
+    "HRMS/18 - Interview Preparation/Scenario Questions.md",
+    "HRMS/18 - Interview Preparation/Mock Interviews.md",
+    "HRMS/18 - Interview Preparation/HR Questions.md",
+    "HRMS/18 - Interview Preparation/Domain Questions.md",
+    "HRMS/18 - Interview Preparation/Case Studies.md",
+    "HRMS/18 - Interview Preparation/BA Questions.md",
+    "HRMS/18 - Interview Preparation/API Questions.md",
+    "HRMS/18 - Interview Preparation/Agile Questions.md",
+    "HRMS/18 - Interview Preparation",
+    "HRMS/17 - Projects",
+    "HRMS/16 - System Design",
+    "HRMS/15 - Domain Knowledge",
+    "HRMS/14 - BA Tools",
+    "HRMS/13 - Data Analysis & Reporting",
+    "HRMS/12 - APIs & Integration"
   ]
 }
