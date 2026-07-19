@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HRMS/00 - Home/Certifications Roadmap.md",
+                "file": "HRMS/00 - Home/Career Goals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Certifications Roadmap"
+              "title": "Career Goals"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "c74cb114b6ebca84",
   "lastOpenFiles": [
+    "HRMS/Introduction.md",
+    "HRMS/00 - Home/Certifications Roadmap.md",
     "HRMS/00 - Home/Career Goals.md",
     "HRMS/99 - Archive",
     "HRMS/20 - Cheat Sheets/UML Cheat Sheet.md",
@@ -212,8 +214,6 @@
     "HRMS/18 - Interview Preparation/Domain Questions.md",
     "HRMS/18 - Interview Preparation/Case Studies.md",
     "HRMS/18 - Interview Preparation/BA Questions.md",
-    "HRMS/18 - Interview Preparation/API Questions.md",
-    "HRMS/18 - Interview Preparation/Agile Questions.md",
     "HRMS/18 - Interview Preparation",
     "HRMS/17 - Projects",
     "HRMS/16 - System Design",
